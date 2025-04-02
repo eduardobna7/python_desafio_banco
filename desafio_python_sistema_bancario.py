@@ -31,9 +31,8 @@ while True:
        else:
            print("operação inválida.")
            
-
     elif opcao==2:
-        print("extrato: ")
+        print(extrato)
 
     elif opcao==3:
        deposito=float(input("depósito: "))
